@@ -9,7 +9,7 @@ submitted.
 
 The open-access dataset described [here](https://bit.ly/UM-bmid) was used
 as the dataset in this work. The specific files used here are available
-[here](https://bi.ly/ML-in-BMS).
+[here](https://bit.ly/ML-in-BMS).
 
 ## Getting Started
 
