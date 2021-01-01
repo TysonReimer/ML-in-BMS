@@ -4,8 +4,9 @@ This repository contains the code used to perform the analysis and create
 the figures in the publication [1].
 
 1. T. Reimer and S. Pistorius, "The diagnostic performance of machine
-learning methods in breast microwave sensing," _IEEE Trans. Biomed. Eng._, 
-submitted.
+learning in breast microwave sensing on a large open-access experimental
+dataset," _IEEE Journal of Electromagnetics, RF and Microwaves in Medicine
+and Biology_, submitted.
 
 The open-access dataset described [here](https://bit.ly/UM-bmid) was used
 as the dataset in this work. The specific files used here are available
