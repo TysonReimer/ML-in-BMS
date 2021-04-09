@@ -40,4 +40,4 @@ if __name__ == "__main__":
               save_fig=True,
               save_str=os.path.join(__FIG_OUT_DIR, 'sino_example'),
               transparent=False, dpi=300,
-              cbar_fmt='%.2f')
+              cbar_fmt='%.3f')
